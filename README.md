@@ -1,5 +1,5 @@
 # HTML Animation Generator
-Generate ASCII art animations from GIF files that show up in your HTML source. [Demo here]().
+Generate ASCII art animations from GIF files that show up in your HTML source. [Demo here](https://dfsoeten.github.io/html-animation-generator/).
 
 ## Installation
 This program uses PIL to transform and manipulate GIF files, this means you need to install PIL: `pip3 install pillow`
